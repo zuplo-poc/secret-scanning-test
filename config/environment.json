@@ -1,0 +1,7 @@
+{
+  "environmentVariables": {
+    "EXAMPLE_UUID": {
+      "variableType": "config"
+    }
+  }
+}
